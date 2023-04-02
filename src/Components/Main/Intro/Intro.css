@@ -1,0 +1,46 @@
+.intro {
+  width: 100%;
+  max-width: 810px;
+  height: 72px;
+  border: 1px solid #d8d8d8;
+  /* margin-right: auto; */
+}
+.intro__wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.theme-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.uz {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-left: auto;
+}
+.en {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.span__intro-wrapper {
+  display: flex;
+  align-items: center;
+}
+.theme {
+  display: block;
+  width: 60px;
+  height: 30px;
+  outline: none;
+}
+
+.lang {
+  display: block;
+  width: 60px;
+  height: 30px;
+  outline: none;
+  margin-right: 20px;
+}
